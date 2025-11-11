@@ -5,9 +5,10 @@
     justify-content: left;
     align-items: center;
     background-image: url('GRASSHOPPER.png');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;  }
+    background-position: center;  
+    min-height: 100vh;  }
    {
     color: #3399ff;
   }
